@@ -12,7 +12,7 @@ I love turning data into actionable insights and contributing to data-driven dec
 ## 📊 Projects
 Here are some of my key projects:
 
-1. **[Project Title 1](link-to-project)**: Brief description of the project, tools used, and key insights.
+1. **[SQL PROJECT](PROJECT 4 - SOLUTION.sql)**
 
 
 Feel free to explore my repositories for more detailed information!
